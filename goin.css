@@ -1,0 +1,268 @@
+body{
+    position: fixed;
+    background-color: black;
+}
+
+
+pre {
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    left: -60px;
+}
+
+.Proce2{
+    position: fixed;
+    width: 110px;
+    top: 230px;
+    left: 430px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.pooy2{
+    position: fixed;
+    width: 690px;
+    top: 560px;
+    left: 640px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+
+.pooy3{
+    color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    left: 770px;
+    top: 490px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+
+.Lifetime{
+    color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 210px;
+    left: 590px;
+    
+}
+
+.Lifetime1{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 250px;
+    left: 591px;
+    
+}
+
+.Lifetime2{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 283px;
+    left: 570px;
+    
+}
+
+.Month{
+    color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 210px;
+    left: 840px;
+}
+
+.Month1{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 250px;
+    left: 830px;
+    
+}
+
+.Month2{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 283px;
+    left: 820px;
+}
+
+.Week{
+    color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 210px;
+    left: 1065px;
+}
+
+.Week1{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 250px;
+    left: 1056px;
+    
+}
+
+.Week2{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 283px;
+    left: 1045px;
+}
+
+.hour{
+    color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    text-shadow: 0 0 5px #f7524d, 0 0 10px #f7524d, 0 0 20px #f7524d, 0 0 30px #f7524d, 0 0 40px #f7524d, 0 0 55px #ffffff, 0 0 75px #ffffff;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 210px;
+    left: 1285px;
+}
+
+.hour1{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 250px;
+    left: 1255px;
+    
+}
+
+.hour2{
+    text-shadow: 0 0 5px #0beb03, 0 0 10px #fff, 0 0 20px #18e029, 0 0 30px #18e029, 0 0 40px #18e029, 0 0 55px #18e029, 0 0 75px #18e029;
+    position: fixed;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+    color: #ffffff;
+    top: 283px;
+    left: 1255px;
+}
+
+.Proce3{
+    position: fixed;
+    width: 110px;
+    top: 230px;
+    left: 1500px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.Discord2{
+    position: fixed;
+    width: 110px;
+    top: 370px;
+    left: 1150px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.Discord3{
+    position: fixed;
+    width: 110px;
+    top: 370px;
+    left: 700px;
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Chrome, Safari, Edge */
+    -ms-user-select: none; /* Internet Explorer, Edge */
+}
+
+.Discord4{
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    width: 370px;
+    left: 795px;
+    height: 60px;
+    font-size: 18px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border: 3px solid rgb(245, 245, 245);
+    top: 394px;
+    transition: background-color 1s, transform 1s;
+}
+
+.Discord4:focus{
+    outline: none;
+}
+
+.Discord4:hover{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}
